@@ -1,0 +1,8 @@
+# Fichiers secrets : jamais sur GitHub (ce depot est PUBLIC)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
